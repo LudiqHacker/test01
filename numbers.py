@@ -1,3 +1,8 @@
+a = input("")
 b = input("")
-for i in range(b):
-   print(i)
+
+if b>a:
+   for i in range(a):
+      print(a)
+else:
+   print("Error! The first number must be lower than the second one.")
