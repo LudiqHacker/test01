@@ -1,4 +1,14 @@
-import random
+import os
+os.clear
 
-number = random.randint(1,10)
-print(number)
+print(" __  __                    _______          _ ")
+print("|  \/  |                  |__   __|        | |")
+print("| \  / | ___  __ _  __ _     | | ___   ___ | |")
+print("| |\/| |/ _ \/ _` |/ _` |    | |/ _ \ / _ \| |")
+print("| |  | |  __/ (_| | (_| |    | | (_) | (_) | |")
+print("|_|  |_|\___|\__, |\__,_|    |_|\___/ \___/|_|")
+print("              __/ |                           ")
+print("             |___/                            ")
+
+a = input("")
+print(a)
