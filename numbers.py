@@ -1,2 +1,3 @@
-for i in range(0,1000):
+b = input("")
+for i in range(b):
    print(i)
