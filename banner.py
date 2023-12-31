@@ -8,6 +8,8 @@ g = input("")
 h = input("")
 l = input("")
 m = input("")
+import os
+os.system("clear")
 
 print(a)
 print(b)
