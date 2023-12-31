@@ -1,2 +1,1 @@
-snap install asciiquarium
 asciiquarium
