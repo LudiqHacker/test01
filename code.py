@@ -1,5 +1,5 @@
 import os
-os.clear
+os.system("clear")
 
 print(" __  __                    _______          _ ")
 print("|  \/  |                  |__   __|        | |")
